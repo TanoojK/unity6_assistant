@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+unity_assistant/
+
+*.gguf
+*.safetensors
+
+unity_rag_db/
+checkpoints/
+raw_scripts/
